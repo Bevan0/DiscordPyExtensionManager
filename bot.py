@@ -13,7 +13,7 @@ admin_ids = {
 client = commands.Bot(command_prefix=prefix)
 client.remove_command("help")
 
-preload_extensions = ['example1', 'example2'] # These are the extensions that load when the bot starts.
+preload_extensions = ['example1'] # These are the extensions that load when the bot starts.
 loaded_extensions = [] # Don't touch, this is to keep track of extensions loaded.
 
 
