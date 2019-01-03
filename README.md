@@ -9,10 +9,10 @@ Find your Discord ID and add it to the list owner_ids to enable the extension co
 # Extension Commands Guide
 We'll use the prefix "!" as it is the default prefix.
 !extension load ext
-- Loads the extension specified in ext.
+Loads the extension specified in ext.
 !extension unload ext
-- Unloads the extension specified in ext.
+Unloads the extension specified in ext.
 !extension reload ext
-- Unloads and loads the extension specified in ext.
+Unloads and loads the extension specified in ext.
 !extension reload *
-- Unloads and loads all extensions.
+Unloads and loads all extensions.
