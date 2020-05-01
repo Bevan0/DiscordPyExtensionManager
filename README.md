@@ -1,3 +1,4 @@
+NOTICE BEFORE USE: This is discontinued! May not work on newest versions without a little tinkering. Feel free to fork!
 # DiscordPyExtensionManager
 Extension manager for discord.py, allowing load, unload, and reload of specific parts of your bot, as well as splitting your bot into multiple files.
 # How to Use
